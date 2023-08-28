@@ -6,7 +6,7 @@ body {
   font-weight: bold;
   color: white;
   text-align: center;
-  font-size: 80px;
+  font-size: 50px;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
 
 button {
   color: #016f32;
-  width: 1000px;
+  width: 700px;
   background: goldenrod;
   padding-top: 5px;
   padding-bottom: 5px;
